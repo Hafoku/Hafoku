@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on proAiMed website.<br>I’m looking to collaborate on any projects.<br>I’m currently learning CS, devops process.<br>Ask me about any question [Telegram](https://t.me/hafoku).
+I’m currently studying.<br>I’m looking to collaborate on any projects.<br>I’m currently learning Data Analysis technology.<br>Ask me about any question [Telegram](https://t.me/hafoku).
 
 
 # Tech Stack:
